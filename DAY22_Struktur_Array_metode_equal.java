@@ -5,7 +5,7 @@
 
 /**
  *
- * @author USE
+ * @author US
  */
 import java.util.Arrays;
 public class struktur_array_metode_equals {
